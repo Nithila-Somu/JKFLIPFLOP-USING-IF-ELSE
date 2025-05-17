@@ -58,9 +58,9 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
     end
     endmodule
 
-Developed by: JEYA SHIVANI S
+Developed by: Nithila S
 
-RegisterNumber:24010976
+RegisterNumber:212224050025
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
